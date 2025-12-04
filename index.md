@@ -1,9 +1,12 @@
+# Hello World
 
-# leafarbw Portfolio
+My name is Rafael Rodriguez Jr. I'm an electrical Engineering Major currently attending at [Cal State Fullerton](http://www.fullerton.edu/)
 
-I am electrical Engineering Major currently pursing my education at CSUF where I plan to graduate in 2028.
+## Computer Science Projects
 
-## Favorite CPSC 120 Labs
+My GitHub page is [http://github.com/your_leafarbw.](http://github.com/your_leafarbw.)
+
+### CPSC 120
 
 * Lab 4 Part 1
 
